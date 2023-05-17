@@ -6,6 +6,8 @@ Welcome to our GitHub Actions Workshop! It will teach you all the basics of GitH
 
 Our goal is to make GitHub Actions as easy to you as floating in space!
 
+
+
 ![GitHubs Octocat Mascot in a space suite floating above earth](docs/images/octonaut.jpg)
 
 Following this workshop, you will create a set of GitHub Action workflows in order to **test, release, secure** and **deploy** the **Rocketdex** 🚀 - an awesome React-Application that lets you view and collect all your favorite rockets!
